@@ -7,7 +7,7 @@ def meal_choice(veg1, veg2, protein = "tofu")
 end
 
 val = meal_choice("broccoli", "macaroni")
-puts val
+p val
 
 #return_val = meal_choice("broccoli", "macaroni")
 #puts return_val
