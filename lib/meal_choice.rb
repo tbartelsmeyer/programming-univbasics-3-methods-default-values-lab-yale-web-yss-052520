@@ -6,5 +6,5 @@ def meal_choice(veg1, veg2, protein = "tofu")
   p "A plate of #{protein} with #{veg1} and #{veg2}."
 end
 
-return_val = meal_choice("broccoli", "macaroni")
-puts return_val
+#return_val = meal_choice("broccoli", "macaroni")
+#puts return_val
