@@ -3,12 +3,7 @@
 
 def meal_choice(veg1, veg2, protein = "tofu")
   puts "What a nutritious meal!"
-  return_val = "A plate of #{protein} with #{veg1} and #{veg2}."
-  p return_val
+  msg2 = "A plate of #{protein} with #{veg1} and #{veg2}."
+  puts msg2
+  msg2
 end
-
-#val = meal_choice("broccoli", "macaroni")
-#p val
-
-#return_val = meal_choice("broccoli", "macaroni")
-#puts return_val
